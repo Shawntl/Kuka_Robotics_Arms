@@ -1,1 +1,1 @@
-env.render()
+import gym
